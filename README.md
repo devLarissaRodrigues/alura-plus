@@ -10,6 +10,12 @@ O objetivo deste projeto é praticar e demonstrar habilidades em HTML e CSS, cri
 - **HTML5**: Utilizado para a marcação da estrutura do site.
 - **CSS3**: Utilizado para a estilização e layout do site.
 
+## Tecnologias Utilizadas
+
+Você pode acessar o site [clicando aqui](https://alura-plus-rose-six.vercel.app/).
+
+
+
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/a6324b0c-1d4b-40c8-947b-9c4286981fb6)
