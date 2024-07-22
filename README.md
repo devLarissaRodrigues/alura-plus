@@ -12,8 +12,9 @@ O objetivo deste projeto é praticar e demonstrar habilidades em HTML e CSS, cri
 
 ## Link para o site
 
-Você pode acessar o site <a href="https://alura-plus-rose-six.vercel.app/" target="_blank">clicando aqui</a>.
+Você pode acessar o site [clicando aqui](https://alura-plus-rose-six.vercel.app/).
 
+**Nota:** Para abrir o link em uma nova aba, você pode clicar com o botão direito do mouse no link e selecionar "Abrir link em nova aba" ou usar o atalho de teclado Ctrl+Clique (ou Command+Clique no Mac).
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/a6324b0c-1d4b-40c8-947b-9c4286981fb6)
